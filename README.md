@@ -1,7 +1,6 @@
 ## Hi there 👋 I am Sara 😄
 
  ##### 🤔 I am a data enthusiast!
- ##### 💬 Passionate about Artificial inteligence and Data Science
- ##### 📫 How to reach me: saracherifsaad@gmail.com 
+ ##### 💬 Passionate about Artificial Intelligence and Data Science
  ##### ⚡ Fun fact:I love languagues and i speak 5 of them!
 
