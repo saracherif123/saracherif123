@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently pursuing **my Big Data Management and Analytics Erasmus Mundus Master's Degree**
 
-- 👨‍💻 All of my projects are available at [https://saracherif123.github.io/SaraSherif.github.io/](https://saracherif123.github.io/SaraSherif.github.io/)
+- 👨‍💻 Check my portfolio at [https://saracherif123.github.io/SaraSherif.github.io/](https://saracherif123.github.io/SaraSherif.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
